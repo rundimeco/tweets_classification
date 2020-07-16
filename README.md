@@ -1,4 +1,5 @@
-PURPOSE
+==PURPOSE==
+
 Classifying tweets (in French) with respect to polarity
 Inspired by one of the machine learning model at character level used by Buscaldi et al. (http://people.irisa.fr/Cedric.Maigrot/CORIA-TALN-2018/Actes_TALN2018_vol2.pdf)
 
